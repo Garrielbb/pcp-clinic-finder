@@ -634,5 +634,17 @@
     "hours": "Monday: 9:00am – 5:00pm\nTuesday: 9:00am – 5:00pm\nWednesday: 9:00am – 5:00pm\nThursday: 9:00am – 8:00pm\nFriday: 9:00am – 5:00pm",
     "wheelchair_accessible": "",
     "updated_at": "2026-02-24"
+  },
+  {
+    "id": "apex-medical-center-1120-kingston-rd-scarborough-on-m1n-1n4",
+    "clinic": "Apex Medical Center",
+    "address": "1120 Kingston Rd, Scarborough, ON M1N 1N4",
+    "intersection": "Blantyre & Kingston Rd",
+    "area": "Scarborough",
+    "phone": "41669071114166904111",
+    "phone_display": "Phone: 416-690-7111\n\nFax: 416-690-4111",
+    "hours": "Monday \n9:30 a.m. - 6:30 p.m.\nTuesday \n9:30 a.m. - 6:30 p.m.\nWednesday \n9:30 a.m. - 6:30 p.m.\nThursday \n9:30 a.m. - 6:30 p.m.\nFriday \n9:30 a.m. - 6:30 p.m.\nSaturday \n10 a.m. - 4 p.m.\nSunday \n10 a.m. - 5 p.m.",
+    "wheelchair_accessible": "",
+    "updated_at": "2026-02-24"
   }
 ]
