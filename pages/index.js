@@ -50,6 +50,22 @@ export default function Home({ clinics }) {
           </li>
         ))}
       </ul>
+      <hr style={{ marginTop: "40px" }} />
+
+<div style={{
+  fontSize: "14px",
+  color: "#555",
+  background: "#f7f7f7",
+  padding: "16px",
+  borderRadius: "8px",
+  marginTop: "20px"
+}}>
+  <strong>Disclaimer:</strong><br/>
+  This website is an independently maintained community resource intended to help individuals locate primary care clinics that may be accepting new patients. 
+  Information is compiled from publicly available sources and may change without notice. 
+  Please contact clinics directly to confirm availability, hours, and eligibility. 
+  This site does not provide medical advice and is not affiliated with any clinic, hospital, or government agency.
+</div>
     </main>
   );
 }
